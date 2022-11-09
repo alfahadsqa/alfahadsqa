@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Md. Abdullah AL Fahad
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Quality+%26+Automation+Engineer.)](https://git.io/typing-svg)
+
 🌱 I’m currently learning Automation testing frameworks,CI/CD pipeline.
 
 👨‍💻 All of my projects are available at https://github.com/alfahadsqa?tab=repositories
