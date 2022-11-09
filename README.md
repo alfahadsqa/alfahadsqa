@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi 👋, I'm Nibraz Khan
+Typing SVG
+
+Coding
+
+🌱 I’m currently learning Automation testing frameworks,CI/CD pipeline.
+
+👨‍💻 All of my projects are available at https://github.com/NibrazKhan?tab=repositories
+
+💬 Ask me about Software testing,strategies,Automation testing frameworks,Manual Testing.
+
+📫 You can reach me at: nibrajkhan123@gmail.com
+
+Favourite Quote: "Stop acting so small.You are the entire universe in ecstatic motion."
+
+Connect with me:
+nibraz-khan farhanfuhad.nibraj nibrajkhan123
+
+Languages and Tools:
+java python cplusplus postman Gradle selenium cypress d3js dart flutter git html5 css3 bootstrap mysql Mocha nodejs pandas
+
+Nibraz's GitHub stats
+
+GitHub Streak
+
+Top Langs
+
+nibrazkhan
